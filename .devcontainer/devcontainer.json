@@ -1,6 +1,7 @@
 {
   "extensions": [
-    "GitHub.github-vscode-theme"
+    "GitHub.github-vscode-theme",
+    "ms-python.python"
     // Additional Extensions Here
   ],
   "onCreateCommand": "echo PS1='\"$ \"' >> ~/.bashrc",
