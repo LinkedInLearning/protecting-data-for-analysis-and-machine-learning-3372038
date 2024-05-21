@@ -15,7 +15,7 @@ This is the same as the Practice_Course-Notebook file, but with the code already
 This is a helpful list of data security terms you can reference once the course is complete.
 
 ## Professsional Organizations.md
-This has some professional organizatiosn you can join if you want to stay current in the data security space.
+This has some professional organizations you can join if you want to stay current in data security.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
